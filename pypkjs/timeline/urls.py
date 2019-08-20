@@ -6,8 +6,8 @@ import os
 
 class URLManager(object):
     def __init__(self):
-        self.internal_api_root = os.environ.get("PEBBLE_TIMELINE_INTERNAL_API", "https://timeline-sync.getpebble.com")
-        self.public_api_root = os.environ.get("PEBBLE_TIMELINE_PUBLIC_API", "https://timeline-api.getpebble.com")
+        self.internal_api_root = os.environ.get("PEBBLE_TIMELINE_INTERNAL_API", "https://timeline-sync.rebble.io")
+        self.public_api_root = os.environ.get("PEBBLE_TIMELINE_PUBLIC_API", "https://timeline-api.rebble.io")
 
     @property
     def fw_resource_map(self):
