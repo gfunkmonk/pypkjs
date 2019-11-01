@@ -2,7 +2,7 @@ backports.ssl-match-hostname==3.4.0.2
 greenlet==0.4.15
 libpebble2>=0.0.26
 netaddr==0.7.18
-peewee==^2.10.2
+peewee==2.10.2
 pygeoip==0.3.2
 pypng==0.0.17
 pyserial==3.4
