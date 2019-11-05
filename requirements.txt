@@ -5,7 +5,7 @@ greenlet>=0.4.7
 peewee==2.8.5
 pygeoip==0.3.2
 pypng==0.0.19
-python-dateutil==2.7.1
+python-dateutil==2.8.1
 requests==2.22.0
 sh==1.09
 six==1.9.0
