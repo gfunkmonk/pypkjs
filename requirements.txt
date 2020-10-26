@@ -7,7 +7,7 @@ pygeoip==0.3.2
 pypng==0.0.19
 python-dateutil==2.7.1
 requests==2.22.0
-sh==1.09
+sh==1.14.1
 six==1.9.0
 websocket-client==0.32.0
 wsgiref==0.1.2
